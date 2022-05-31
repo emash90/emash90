@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on any mern stack projects 
 - 🤔 I’m looking for help with building my experience working on a project from idea inception to deployment
 - 💬 Ask me about ...just about anything, i am easy and keep an open mind
-- 📫 How to reach me: 
+- 📫 How to reach me:  
 - 😄 Pronouns: ...he/him/his
 - ⚡ Fun fact: ...Whatever you do, do it to your best. Whatever you are, be a good one.
