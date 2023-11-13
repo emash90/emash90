@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a full stack web app developer, working with the m.e.r.n stack.<br>🌱 I’m currently working on a severless web app utilizing aws services such as cognito and API gateway<br>👯 I’m looking to collaborate on any mern stack projects<br>🤔 I’m looking for help with building my experience working on a project from idea inception to deployment<br>💬 Ask me about ...just about anything, i am easy and keep an open mind<br>📫 Portfolio site: https://emash90.github.io/edwin-portfolio/<br>😄 Pronouns: ...he/him/his<br>⚡ Fun fact: ...Whatever you do, do it to your best. Whatever you are, be a good one.
+🔭 I’m a full stack web app developer, working with the m.e.r.n stack.<br>🌱 I’m currently working on a severless web app project utilizing aws services such as cognito and API gateway<br>👯 I’m looking to collaborate on any mern stack projects<br>🤔 I’m looking for help with building my experience working on a project from idea inception to deployment<br>💬 Ask me about ...just about anything, i am easy and keep an open mind<br>📫 Portfolio site: https://emash90.github.io/edwin-portfolio/<br>😄 Pronouns: ...he/him/his<br>⚡ Fun fact: ...Whatever you do, do it to your best. Whatever you are, be a good one.
 
 
 ## 🌐 Socials:
