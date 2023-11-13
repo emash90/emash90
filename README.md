@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔭 I’m a full stack web app developer, working with the m.e.r.n stack.<br>🌱 I’m currently working on a severless web app project utilizing aws services such as cognito and API gateway: https://github.com/emash90/rent-a-car <br>👯 I’m looking to collaborate on any mern stack projects<br>🤔 I’m looking for help with building my experience working on a project from idea inception to deployment<br>💬 Ask me about ...just about anything, i am easy and keep an open mind<br>📫 Portfolio site: https://emash90.github.io/edwin-portfolio/<br>😄 Pronouns: ...he/him/his<br>⚡ Fun fact: ...Whatever you do, do it to your best. Whatever you are, be a good one.
+# 🔭 About Me:
+- I'm a full stack web app developer, proficient in the M.E.R.N stack.
+- Currently, I'm engaged in a serverless web app project utilizing AWS services like Cognito and API Gateway: [Rent-a-Car Project](https://github.com/emash90/rent-a-car).
+- Open to collaborating on diverse projects, particularly those involving the MERN stack.
+- I'm seeking assistance to further enhance my experience in navigating the entire project lifecycle, from idea inception to deployment.
+- Feel free to ask me about anything; I'm approachable and open-minded.
+- Portfolio site: [Edwin's Portfolio](https://emash90.github.io/edwin-portfolio/)
+- Pronouns: he/him/his
+- Fun fact: Whatever you do, do it to your best. Whatever you are, be a good one.
+
+# 👯 Collaboration:
+I'm actively seeking opportunities to collaborate on new challenges, finding innovative solutions, and contributing to MERN stack projects.
+
+# 🤔 Building Experience:
+I'm open to embracing new challenges and committed to continuous improvement. I welcome opportunities that foster learning and growth in project development, from conceptualization to deployment.
+
+# 💬 Let's Connect:
+If you have exciting projects or challenges, let's connect and explore how we can collaborate to create something extraordinary.
+
 
 
 ## 🌐 Socials:
