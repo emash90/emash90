@@ -5,7 +5,7 @@ Hi, I'm **Edwin Macharia**, a full-stack web developer passionate about solving 
 - 🧠 Currently diving deep into **Clean Architecture**, **Microservices**, and **Cloud Deployment**
 - 💻 Proficient in the **M.E.R.N stack**, with strong expertise in **NestJS**, **Docker**, and **PostgreSQL**
 - 🌍 I believe in continuous learning, strong collaboration, and clean, maintainable code.
-- 🔗 [Check out my portfolio](https://emash90.github.io/edwin-portfolio/)
+- 🔗 [Check out my portfolio](https://new-portfolio-git-main-emash90s-projects.vercel.app/)
 - 🔊 Pronouns: `he/him/his`
 - 🎯 Fun fact: *“Whatever you do, do it to your best. Whatever you are, be a good one.”*
 
