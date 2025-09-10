@@ -2,7 +2,8 @@
 
 Hi, I'm **Edwin Macharia**, a full-stack web developer passionate about solving real-world problems with clean architecture and scalable solutions.
 
-- 🧠 Currently diving deep into **Clean Architecture**, **Microservices**, and **Cloud Deployment**
+- 🧠 Currently exploring AI agent development with Google ADK, LangChain and LlamaIndex
+- diving deep into **Clean Architecture**, **Microservices**, and **Cloud Deployment**
 - 💻 Proficient in the **M.E.R.N stack**, with strong expertise in **NestJS**, **Docker**, and **PostgreSQL**
 - 🌍 I believe in continuous learning, strong collaboration, and clean, maintainable code.
 - 🔗 [Check out my portfolio](https://new-portfolio-git-main-emash90s-projects.vercel.app/)
@@ -18,6 +19,7 @@ I'm looking to collaborate on projects that:
 - Use **Node.js**, **NestJS**, or **React**
 - Apply **event-driven architecture** and **message brokers**
 - Aim for **clean code**, **testing**, and **scalable deployment** (Docker, CI/CD, GCP)
+- Experiment with AI agents and agentic workflows powered by Google ADK or any other framework
 
 > If you're working on something exciting — let's team up and build something amazing.
 
